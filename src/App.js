@@ -1,10 +1,10 @@
 import React from 'react';
-import AppCall from './components/useCallbackMemo/App';
+import AppNavbar from './components/navbar/AppNavbar';
 
 export default function App() {
     return (
         <div>
-            <AppCall />
+            <AppNavbar />
         </div>
     );
 }
